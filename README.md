@@ -1,7 +1,7 @@
 TSP.py
 ======
 
-The TSP class solve the famous travelling salesman problem using a genetic algorithm. It use contests to select fathers/mothers and not a wheel roulette.
+The TSP class solve the famous traveling salesman problem using a genetic algorithm. It use contests to select fathers/mothers and not a wheel roulette.
 
 The code is documented so I think it's pretty easy to understand how it work, if you have a question ask!
 
